@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on DevOps desgin.
+- 🔭 I’m currently working on DevOps design.
 - 🌱 I’m currently learning different kinds of microservice application design pattern.
 - 👯 I’m looking to collaborate on interesting open source project.
 - 📫 How to reach me: You will find my content from my website.
-- Keep building up my algorithm and data structure knowledges from LeetCode.
+- Keep building up my algorithm and data structure knowledge from LeetCode.
